@@ -15,5 +15,6 @@ I originally set out to deploy this in Azure via a static web app, however due t
 # Technology/Stacks Used
 
 |   Technology  | Why   |
+| ------------- |-------|
 | Hugo          | Hugo go BRRRRRR   |
 | Render        | It's free?        |
