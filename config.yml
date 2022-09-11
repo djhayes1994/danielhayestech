@@ -1,4 +1,4 @@
-baseurl: "localhost"
+baseurl: "/"
 title: "Daniel Hayes - A Personal Blog"
 theme: ghostwriter
 languageCode: en-us
