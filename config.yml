@@ -43,7 +43,7 @@ params:
   description: A Personal Blog
   github: "https://github.com/djhayes1994"
   linkedin: "https://www.linkedin.com/in/djhayes1994/"
-  email: djhayes1994@example.com
+  email: djhayes1994@gmail.com
   opengraph: true
   shareLinkedIn: true
   dateFormat: "Mon, Jan 2, 2006"
