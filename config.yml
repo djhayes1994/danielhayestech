@@ -2,7 +2,7 @@ baseurl: "/"
 title: "Daniel Hayes - A Personal Blog"
 theme: ghostwriter
 languageCode: en-us
-copyright: My Name
+copyright: Daniel Hayes
 disqusShortname: XXX
 googleAnalytics: XXX
 pygmentsUseClasses: true
@@ -40,7 +40,7 @@ params:
     - _index.md
   intro: true
   headline: Daniel Hayes
-  description: My Personal Blog
+  description: A Personal Blog
   github: "https://github.com/djhayes1994"
   linkedin: "https://www.linkedin.com/in/djhayes1994/"
   email: djhayes1994@example.com
