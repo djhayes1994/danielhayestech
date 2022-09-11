@@ -1,4 +1,4 @@
-baseurl: "https://thankful-mud-034bf1e0f.1.azurestaticapps.net"
+baseurl: "localhost"
 title: "Daniel Hayes - A Personal Blog"
 theme: ghostwriter
 languageCode: en-us
