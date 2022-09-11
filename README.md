@@ -12,3 +12,8 @@ I got tired of using WordPress and read an article about another person attempti
 
 I originally set out to deploy this in Azure via a static web app, however due to cost savings I chose to use Render.com
 
+# Technology/Stacks Used
+
+|   Technology  | Why   |
+| Hugo          | Hugo go BRRRRRR   |
+| Render        | It's free?        |
