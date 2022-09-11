@@ -1,8 +1,10 @@
-# danielhayes.tech
+# new.danielhayes.tech
 
 This is a personal blog that I am doing as a small project to learn development using Hugo.
 
-Static app is hosted via render.com
+Static app is hosted via render.com.
+
+Eventually I will fully migrate everything from danielhayes.tech, but for now it is on it's own sub domain. 
 
 # Why did I do this?
 
