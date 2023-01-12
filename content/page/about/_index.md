@@ -12,3 +12,6 @@ I have worked in the MSP space for 7 years, with a majority of that time spent m
 This experience has enabled me to manage a sizeable amount of endpoints across several different business verticals and environments. While also making use of automation via various tools (RMM, Powershell, Intune/Endpoint Manager).
 
 ![Me](/page/about/me.jpeg)
+
+# My Cats 🐱
+![Cats](/page/about/cats.jpg)
