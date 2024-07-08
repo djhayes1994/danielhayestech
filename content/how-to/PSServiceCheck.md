@@ -1,7 +1,7 @@
 ---
 title: Powershell – How to check for services that are set to ‘Automatic’ start up type and ‘Stopped’
 author: Daniel Hayes
-type: post
+type: draft
 date: 2021-02-16T17:21:40+00:00
 categories:
   - How-Tos

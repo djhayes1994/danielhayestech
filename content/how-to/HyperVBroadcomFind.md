@@ -1,7 +1,7 @@
 ---
 title: ConnectWise Automate – Finding Hyper-V 2012 servers with Broadcom NetXtreme Adapters
 author: Daniel Hayes
-type: post
+type: draft
 date: 2019-12-11T21:11:35+00:00
 categories:
   - How-Tos

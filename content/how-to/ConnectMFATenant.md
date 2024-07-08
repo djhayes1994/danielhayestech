@@ -1,7 +1,7 @@
 ---
 title: 'Powershell – How to connect to Exchange Online on a MFA  protected tenant.'
 author: Daniel Hayes
-type: post
+type: draft
 date: 2021-02-16T17:35:28+00:00
 categories:
   - How-Tos

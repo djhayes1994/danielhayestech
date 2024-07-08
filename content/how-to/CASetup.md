@@ -1,7 +1,7 @@
 ---
 title: Windows Server 2016 – Configuring Active Directory Certificate Services
 author: Daniel Hayes
-type: post
+type: draft
 date: 2020-02-15T15:58:13+00:00
 categories:
   - How-Tos
